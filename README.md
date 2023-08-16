@@ -1,0 +1,1 @@
+I uploaded this course for recruiters to see the acquired skills. This course includes projects such as a Mini Blog using Firebase and a simple Instagram clone using MongoDB, both of which are full-stack projects.
